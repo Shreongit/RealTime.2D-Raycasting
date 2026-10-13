@@ -1,0 +1,25 @@
+# Real-Time 2D Raycasting Default Level
+#
+# Format:
+# WALL x1 y1 x2 y2
+#
+# Coordinates use the console world space.
+
+BOUNDARY 1 1 78 1
+BOUNDARY 78 1 78 23
+BOUNDARY 78 23 1 23
+BOUNDARY 1 23 1 1
+
+WALL 15 5 30 5
+WALL 30 5 30 12
+
+WALL 45 3 45 10
+WALL 45 10 60 10
+
+WALL 12 17 25 17
+WALL 25 17 25 22
+
+WALL 50 16 68 16
+WALL 50 16 50 22
+
+PLAYER 40 12

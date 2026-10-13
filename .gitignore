@@ -1,0 +1,54 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Test results
+TestResults/
+coverage/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# Generated files
+*.cache
+
+# Publish output
+publish/
+
+# Local environment files
+.env
+.env.*
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper*
